@@ -7,7 +7,7 @@
                 <!-- LOGO -->
                 <div class="navbar-brand-box">
 
-                    <a href="index.html" class="logo logo-light text-decoration-none text-light mt-2">
+                    <a href="/admin" class="logo logo-light text-decoration-none text-light mt-2">
                         <span class="logo-sm">
                             <img src="assets/images/logo-duaputri.png" alt="" height="30">
                         </span>
@@ -110,12 +110,6 @@
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-danger" href="#"><i class="bx bx-power-off font-size-16 align-middle me-1 text-danger"></i> <span key="t-logout">Logout</span></a>
                     </div>
-                </div>
-
-                <div class="dropdown d-inline-block">
-                    <button type="button" class="btn header-item noti-icon right-bar-toggle waves-effect">
-                        <i class="bx bx-cog bx-spin"></i>
-                    </button>
                 </div>
 
             </div>
