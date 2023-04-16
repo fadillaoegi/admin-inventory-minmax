@@ -1,24 +1,23 @@
-{{-- @dd('title') --}}
 @extends('main')
 
 @section('content')
+
 <div class="row">
     <div class="col-lg-12">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title mb-4">Daftar Barang</h4>
+                <h4 class="card-title mb-4">Daftar Penjualan</h4>
                 <div class="table-responsive">
                     <table class="table align-middle table-nowrap mb-0">
                         <thead class="table-light">
                             <tr>
                                 
-                                <th class="align-middle">ID Barang</th>
+                                <th class="align-middle">ID Penjualan</th>
                                 <th class="align-middle">Nama Barang</th>
                                 <th class="align-middle">Harga</th>
-                                <th class="align-middle">Lead Time</th>
-                                <th class="align-middle">Stock</th>
-                                {{-- <th class="align-middle">Pembayaran</th> --}}
-                                <th class="align-middle">Action</th>
+                                <th class="align-middle">jumlah</th>
+                                <th class="align-middle">Total</th>
+                                <th class="align-middle">Tanggal</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -36,13 +35,7 @@
                                     250
                                 </td>
                                 <td>
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Edit     
-                                    </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Delete
-                                    </button>
+                                    17-02-2023
                                 </td>
                             </tr>
 
@@ -59,13 +52,7 @@
                                     760
                                 </td>
                                 <td>
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Edit     
-                                    </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Delete
-                                    </button>
+                                    17-02-2023
                                 </td>
                             </tr>
 
@@ -82,13 +69,7 @@
                                     390
                                 </td>
                                 <td>
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Edit     
-                                    </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Delete
-                                    </button>
+                                    17-02-2023
                                 </td>
                             </tr>
                             <tr>
@@ -104,13 +85,7 @@
                                     250
                                 </td>
                                 <td>
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Edit     
-                                    </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Delete
-                                    </button>
+                                    17-02-2023
                                 </td>
                             </tr>
                             <tr>
@@ -125,15 +100,8 @@
                                 <td>
                                     220
                                 </td>
-                                
                                 <td>
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Edit     
-                                    </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Delete
-                                    </button>
+                                    17-02-2023
                                 </td>
                             </tr>
                             <tr>
@@ -149,13 +117,7 @@
                                     220
                                 </td>
                                 <td>
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Edit     
-                                    </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
-                                        Delete
-                                    </button>
+                                    17-02-2023
                                 </td>
                             </tr>
                         </tbody>
@@ -177,4 +139,5 @@
     </div>
 </div>
 <!-- end row -->
+    
 @endsection

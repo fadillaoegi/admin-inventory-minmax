@@ -15,7 +15,7 @@ class barangController extends Controller
     {
         return view('layouts.daftar_barang', [
 
-            "title" => "Daftar Barang"
+            "title" => "Barang page"
         ]);
     }
 

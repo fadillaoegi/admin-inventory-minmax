@@ -15,7 +15,7 @@ class supplierController extends Controller
     {
         return view('layouts.daftar_supplier', [
             
-            "title" => "Supplier Page",
+            "title" => "Supplier page",
         ]);
     }
 
