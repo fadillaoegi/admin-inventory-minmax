@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class penjualanController extends Controller
+class dashboardController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,7 +13,9 @@ class penjualanController extends Controller
      */
     public function index()
     {
-        return view('layouts.daftar_penjualan', ["title" => "Penjualan page"]);
+        return view('layouts.dashboard', [
+            "title" => "Dashboard page"
+        ]);
     }
 
     /**

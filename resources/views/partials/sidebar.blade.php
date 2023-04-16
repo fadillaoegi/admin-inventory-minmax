@@ -17,8 +17,8 @@
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href="/daftarbarang" key="t-basic-tables">Daftar Barang</a></li>
                         <li><a href="/daftarsupplier" key="t-data-tables">Daftar Supplier</a></li>
-                        <li><a href="tables-responsive.html" key="t-responsive-table">Daftar Penjualan</a></li>
-                        <li><a href="tables-editable.html" key="t-editable-table">Daftar Rata-rata</a></li>
+                        <li><a href="/daftarpenjualan" key="t-responsive-table">Daftar Penjualan</a></li>
+                        <li><a href="/daftarratarata" key="t-editable-table">Daftar Rata-rata</a></li>
                     </ul>
                 </li>
 

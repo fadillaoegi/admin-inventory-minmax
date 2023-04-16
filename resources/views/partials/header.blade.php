@@ -7,7 +7,7 @@
                 <!-- LOGO -->
                 <div class="navbar-brand-box">
 
-                    <a href="/admin" class="logo logo-light text-decoration-none text-light mt-2">
+                    <a href="/" class="logo logo-light text-decoration-none text-light mt-2">
                         <span class="logo-sm">
                             <img src="assets/images/logo-duaputri.png" alt="" height="30">
                         </span>
