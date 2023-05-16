@@ -22,6 +22,5 @@ Route::get('/daftarratarata', [ratarataController::class, 'index'])->name('dafta
 
 Route::get('/inputbarang', [inputController::class, 'index'])->name('inputBarang');
 
-// test test
 // Route::get('/karyawan', [karyawanController::class, 'index'])->name('karyawan');
 
