@@ -22,5 +22,7 @@ Route::get('/daftarratarata', [ratarataController::class, 'index'])->name('dafta
 
 Route::get('/inputbarang', [inputController::class, 'index'])->name('inputBarang');
 
+Route::get('/kasir', [inputController::class, 'index'])->name('kasir');
+
 Route::get('/karyawan', [karyawanController::class, 'index'])->name('karyawan');
 
