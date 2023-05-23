@@ -13,6 +13,7 @@ use App\Http\Controllers\penjualanController;
 //     return view('main', ["title" => "Main Page"]);
 // });
 
+// Route Master
 Route::get('/', [dashboardController::class, 'index'])->name('dashboard');
 Route::get('/daftarbarang', [barangController::class, 'index'])->name('daftarBarang');
 Route::get('/daftarsupplier', [supplierController::class, 'index'])->name('daftarSupplier');
