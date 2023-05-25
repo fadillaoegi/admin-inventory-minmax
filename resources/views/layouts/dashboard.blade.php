@@ -299,7 +299,7 @@
                                         <th class="align-middle">Jumlah</th>
                                         <th class="align-middle">Total Harga</th>
                                         {{-- <th class="align-middle">Pembayaran</th> --}}
-                                        <th class="align-middle">View Details</th>
+                                        {{-- <th class="align-middle">View Details</th> --}}
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -316,12 +316,12 @@
                                         <td>
                                             Rp.500.000
                                         </td>
-                                        <td>
+                                        {{-- <td>
                                             <!-- Button trigger modal -->
                                             <button type="button" class="btn btn-primary btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
                                                 View Details
                                             </button>
-                                        </td>
+                                        </td> --}}
                                     </tr>
 
                                     <tr>
@@ -336,12 +336,12 @@
                                         <td>
                                             Rp. 800.000
                                         </td>
-                                        <td>
+                                        {{-- <td>
                                             <!-- Button trigger modal -->
                                             <button type="button" class="btn btn-primary btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
                                                 View Details
                                             </button>
-                                        </td>
+                                        </td> --}}
                                     </tr>
 
                                     <tr>
@@ -356,12 +356,12 @@
                                         <td>
                                             Rp. 440.000
                                         </td>
-                                        <td>
+                                        {{-- <td>
                                             <!-- Button trigger modal -->
                                             <button type="button" class="btn btn-primary btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
                                                 View Details
                                             </button>
-                                        </td>
+                                        </td> --}}
                                     </tr>
                                     <tr>
                                         <td><a href="javascript: void(0);" class="text-body fw-bold">#SK2543</a> </td>
@@ -375,12 +375,12 @@
                                         <td>
                                             Rp. 450.000
                                         </td>
-                                        <td>
+                                        {{-- <td>
                                             <!-- Button trigger modal -->
                                             <button type="button" class="btn btn-primary btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
                                                 View Details
                                             </button>
-                                        </td>
+                                        </td> --}}
                                     </tr>
                                     <tr>
                                         <td><a href="javascript: void(0);" class="text-body fw-bold">#SK2544</a> </td>
@@ -395,12 +395,12 @@
                                             Rp. 150.0000
                                         </td>
                                         
-                                        <td>
+                                        {{-- <td>
                                             <!-- Button trigger modal -->
                                             <button type="button" class="btn btn-primary btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
                                                 View Details
                                             </button>
-                                        </td>
+                                        </td> --}}
                                     </tr>
                                     <tr>
                                         <td><a href="javascript: void(0);" class="text-body fw-bold">#SK2545</a> </td>
@@ -414,12 +414,12 @@
                                         <td>
                                             Rp. 300.000
                                         </td>
-                                        <td>
+                                        {{-- <td>
                                             <!-- Button trigger modal -->
                                             <button type="button" class="btn btn-primary btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
                                                 View Details
                                             </button>
-                                        </td>
+                                        </td> --}}
                                     </tr>
                                 </tbody>
                             </table>
