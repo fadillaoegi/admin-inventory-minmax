@@ -10,6 +10,13 @@
                 <li class="menu-title" key="t-menu">Menu</li>
 
                 <li>
+                    <a href="/kasir" class="waves-effect">
+                        <i class="bx bx-receipt"></i>
+                        <span key="t-chat">Kasir</span>
+                    </a>
+                </li>
+
+                <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="bx bx-list-ul"></i>
                         <span key="t-tables">Master Data</span>
@@ -28,8 +35,8 @@
                         <span key="t-forms">Input Data</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="form-validation.html" key="t-form-validation">Input Data Penjualan</a></li>
-                        <li><a href="form-elements.html" key="t-form-elements">Input Data Barang</a></li>
+                        {{-- <li><a href="form-validation.html" key="t-form-validation">Input Data Penjualan</a></li> --}}
+                        <li><a href="/inputbarang" key="t-form-elements">Input Data Barang</a></li>
                         <li><a href="form-layouts.html" key="t-form-layouts">Input Data Supplier</a></li>
                     </ul>
                 </li>
