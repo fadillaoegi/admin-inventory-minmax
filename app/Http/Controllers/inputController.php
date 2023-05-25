@@ -17,6 +17,7 @@ class inputController extends Controller
             "title" => "Kasir Page"
         ]);
     }
+    
     public function indexBarang()
     {
         return view('layouts.input_barang', [
