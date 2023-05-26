@@ -11,7 +11,7 @@
 
                 <li>
                     <a href="/kasir" class="waves-effect">
-                        <i class="bx bx-receipt"></i>
+                        <i class="bx bx-archive"></i>
                         <span key="t-chat">Kasir</span>
                     </a>
                 </li>
