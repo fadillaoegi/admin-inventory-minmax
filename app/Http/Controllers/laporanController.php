@@ -4,19 +4,32 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class karyawanController extends Controller
+class laporanController extends Controller
 {
     /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function indexMasuk()
     {
-        return view('layouts.daftar_karyawan', [
-            "title" => "karyawan page"]);
+        return view('layouts.laporan_barang_Masuk', [
+            "title" => "laporan masuk"
+        ]);
+    }
+    public function indexKeluar()
+    {
+        return view('layouts.laporan_barang_keluar', [
+            "title" => "laporan keluar"
+        ]);
     }
 
+    public function indexStok()
+    {
+        return view('layouts.laporan_stok', [
+            "title" => "laporan Rekomendasi Stok"
+        ]);
+    }
     /**
      * Show the form for creating a new resource.
      *

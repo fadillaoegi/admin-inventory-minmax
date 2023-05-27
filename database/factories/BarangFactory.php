@@ -17,7 +17,8 @@ class BarangFactory extends Factory
     public function definition()
     {
         return [
-            //
+            // 'id' => fake()->numberBetween(1,50),
+
         ];
     }
 }

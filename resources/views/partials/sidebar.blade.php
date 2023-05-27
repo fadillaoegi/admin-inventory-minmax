@@ -37,7 +37,7 @@
                     <ul class="sub-menu" aria-expanded="false">
                         {{-- <li><a href="form-validation.html" key="t-form-validation">Input Data Penjualan</a></li> --}}
                         <li><a href="/inputbarang" key="t-form-elements">Input Data Barang</a></li>
-                        <li><a href="form-layouts.html" key="t-form-layouts">Input Data Supplier</a></li>
+                        <li><a href="/inputsupplier" key="t-form-layouts">Input Data Supplier</a></li>
                     </ul>
                 </li>
 
@@ -49,14 +49,14 @@
                         <span key="t-invoices">Laporan</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="invoices-detail.html" key="t-invoice-detail">Laporan Barang Masuk</a></li>
-                        <li><a href="invoices-list.html" key="t-invoice-list">Laporan Barang Keluar</a></li>
-                        <li><a href="invoices-detail.html" key="t-invoice-detail">Laporan Re-Stock</a></li>
+                        <li><a href="/laporanbarangmasuk" key="t-invoice-detail">Laporan Barang Masuk</a></li>
+                        <li><a href="/laporanbarangkeluar" key="t-invoice-list">Laporan Barang Keluar</a></li>
+                        <li><a href="/laporanrestok" key="t-invoice-detail">Laporan Rekomendasi Re-Stock</a></li>
                     </ul>
                 </li>
 
                 <li>
-                    <a href="apps-filemanager.html" class="waves-effect">
+                    <a href="/karyawan" class="waves-effect">
                         <i class="bx bxs-user-detail"></i>
                         <span key="t-file-manager">Daftar Karyawan</span>
                     </a>

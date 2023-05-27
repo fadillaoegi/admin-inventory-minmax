@@ -31,9 +31,9 @@
                     </div>
                 </div>
                 <div class="mb-3 row">
-                    <label for="example-text-input" class="col-md-2 col-form-label">Nama</label>
+                    <label for="example-text-input" class="col-md-2 col-form-label">Alamat</label>
                     <div class="col-md-10">
-                        <input class="form-control" type="text" placeholder="Alamat"
+                        <input class="form-control" type="text" placeholder="Jl.blabla, surabaya"
                             id="example-text-input">
                     </div>
                 </div>

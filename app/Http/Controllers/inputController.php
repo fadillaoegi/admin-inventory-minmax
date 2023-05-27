@@ -24,6 +24,12 @@ class inputController extends Controller
             "title" => "input barang Page"
         ]);
     }
+    public function indexSupplier()
+    {
+        return view('layouts.input_supplier', [
+            "title" => "input supplier Page"
+        ]);
+    }
     /**
      * Show the form for creating a new resource.
      *
