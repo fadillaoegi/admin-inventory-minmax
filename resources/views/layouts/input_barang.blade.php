@@ -42,13 +42,13 @@
                     </div>
                 </div>
                 
-                <div class="mb-3 row">
+                {{-- <div class="mb-3 row">
                     <label for="example-date-input" class="col-md-2 col-form-label">Date</label>
                     <div class="col-md-10">
                         <input class="form-control" type="date" value="2019-08-19"
                             id="example-date-input">
                     </div>
-                </div>  
+                </div>   --}}
 
             </div>
         </div>

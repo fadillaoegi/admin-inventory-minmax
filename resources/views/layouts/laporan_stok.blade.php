@@ -9,7 +9,6 @@
                 <table class="table align-middle table-nowrap mb-0">
                     <thead class="table-light">
                         <tr>
-                            
                             <th class="align-middle">ID Barang</th>
                             <th class="align-middle">Nama Barang</th>
                             <th class="align-middle">Safety Stock</th>
