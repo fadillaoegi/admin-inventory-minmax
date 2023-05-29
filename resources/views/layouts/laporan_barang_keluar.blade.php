@@ -13,8 +13,7 @@
                             <th class="align-middle">ID Barang</th>
                             <th class="align-middle">Nama Barang</th>
                             <th class="align-middle">Jumlah</th>
-                            <th class="align-middle">Supplier</th>
-                            {{-- <th class="align-middle">Pembayaran</th> --}}
+                            <th class="align-middle">Tanggal</th>
                             <th class="align-middle">Action</th>
                         </tr>
                     </thead>
@@ -27,7 +26,7 @@
                                 250
                             </td>
                             <td>
-                                Hj.Jani
+                                220-05-2023
                             </td>
                             <td>
                                 <!-- Button trigger modal -->
@@ -43,8 +42,9 @@
                             <td>
                                 250
                             </td>
+                            
                             <td>
-                                Hj.Jani
+                                220-05-2023
                             </td>
                             <td>
                                 <!-- Button trigger modal -->
@@ -60,8 +60,9 @@
                             <td>
                                 250
                             </td>
+                            
                             <td>
-                                Hj.Jani
+                                220-05-2023
                             </td>
                             <td>
                                 <!-- Button trigger modal -->
@@ -76,8 +77,9 @@
                             <td>
                                 250
                             </td>
+                            
                             <td>
-                                Hj.rozy
+                                220-05-2023
                             </td>
                             <td>
                                 <!-- Button trigger modal -->
@@ -92,8 +94,9 @@
                             <td>
                                 220
                             </td>
+                            
                             <td>
-                                Superindo
+                                220-05-2023
                             </td>
                             
                             <td>
@@ -109,8 +112,9 @@
                             <td>
                                 2230
                             </td>
+                            
                             <td>
-                                Superindo
+                                220-05-2023
                             </td>
                             <td>
                                 <!-- Button trigger modal -->

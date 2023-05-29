@@ -6,7 +6,12 @@
     <div class="col-lg-12">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title mb-4">Daftar Barang</h4>
+                <div class="d-flex justify-content-between mb-3 row-cols-5">
+                    <h4 class="card-title mb-4">Daftar Barang</h4>
+                        <button type="button" class="btn btn-primary p-2 icon-close btn-sm btn-rounded waves-effect waves-light" >
+                           <span> Tambah barang <i class="bx bx-add-to-queue"></i> </span>
+                        </button>
+                </div>
                 <div class="table-responsive">
                     <table class="table align-middle table-nowrap mb-0">
                         <thead class="table-light">
@@ -37,10 +42,10 @@
                                 </td>
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>

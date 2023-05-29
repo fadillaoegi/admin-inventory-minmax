@@ -61,6 +61,13 @@
                         <span key="t-file-manager">Daftar Karyawan</span>
                     </a>
                 </li>
+
+                <li>
+                    <a href="/" class="waves-effect">
+                        <i class="bx bxs-user-detail"></i>
+                        <span key="t-file-manager">Histori</span>
+                    </a>
+                </li>
                
             </ul>
         </div>
