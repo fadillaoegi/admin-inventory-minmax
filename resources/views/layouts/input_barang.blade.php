@@ -17,7 +17,6 @@
     <div class="col-12">
         <div class="card">
             <div class="card-body">
-
                 <div class="mb-3 row">
                     <label for="example-text-input" class="col-md-2 col-form-label">Nama</label>
                     <div class="col-md-10">

@@ -31,20 +31,6 @@
 
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bxs-eraser"></i>
-                        <span key="t-forms">Input Data</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="false">
-                        {{-- <li><a href="form-validation.html" key="t-form-validation">Input Data Penjualan</a></li> --}}
-                        <li><a href="/inputbarang" key="t-form-elements">Input Data Barang</a></li>
-                        <li><a href="/inputsupplier" key="t-form-layouts">Input Data Supplier</a></li>
-                    </ul>
-                </li>
-
-                
-
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="bx bx-receipt"></i>
                         <span key="t-invoices">Laporan</span>
                     </a>

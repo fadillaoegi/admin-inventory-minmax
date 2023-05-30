@@ -9,7 +9,6 @@
                 <table class="table align-middle table-nowrap mb-0">
                     <thead class="table-light">
                         <tr>
-                            
                             <th class="align-middle">ID Barang</th>
                             <th class="align-middle">Nama Barang</th>
                             <th class="align-middle">Jumlah</th>
@@ -19,7 +18,6 @@
                     </thead>
                     <tbody>
                         <tr>
-                            
                             <td><a href="javascript: void(0);" class="text-body fw-bold">#SK2540</a> </td>
                             <td>Beras 3 Kg</td>
                             <td>
@@ -30,7 +28,7 @@
                             </td>
                             <td>
                                 <!-- Button trigger modal -->
-                                <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light">
                                     Download Laporan
                                 </button>
                             </td>
