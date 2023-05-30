@@ -5,7 +5,12 @@
     <div class="col-lg-12">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title mb-4">Daftar Supplier</h4>
+                <div class="d-flex justify-content-between mb-3 row-cols-5">
+                    <h4 class="card-title mb-4">Daftar Supplier</h4>
+                        <button type="button" class="btn btn-primary p-2 icon-close btn-sm btn-rounded waves-effect waves-light" >
+                           <span> Tambah supplier <i class="bx bx-add-to-queue"></i> </span>
+                        </button>
+                </div>
                 <div class="table-responsive">
                     <table class="table align-middle table-nowrap mb-0">
                         <thead class="table-light">

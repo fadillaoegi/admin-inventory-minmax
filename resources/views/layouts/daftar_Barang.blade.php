@@ -40,6 +40,7 @@
                                 <td>
                                     250
                                 </td>
+                                
                                 <td>
                                     <!-- Button trigger modal -->
                                     <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light">
