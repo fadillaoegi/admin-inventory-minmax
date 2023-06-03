@@ -7,7 +7,7 @@
             <div class="card-body">
                 <div class="d-flex justify-content-between mb-3 row-cols-5">
                     <h4 class="card-title mb-4">Daftar Supplier</h4>
-                        <button type="button" class="btn btn-primary p-2 icon-close btn-sm btn-rounded waves-effect waves-light" >
+                        <button type="button" class="btn btn-primary p-2 icon-close btn-sm waves-effect waves-light" >
                            <span> Tambah supplier <i class="bx bx-add-to-queue"></i> </span>
                         </button>
                 </div>
@@ -37,10 +37,10 @@
                                 </td>
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-success btn-sm waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-danger btn-sm waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>
@@ -58,10 +58,10 @@
                                 </td>
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-success btn-sm waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-danger btn-sm waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>
@@ -78,10 +78,10 @@
                                 </td>
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-success btn-sm waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-danger btn-sm waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>
@@ -97,10 +97,10 @@
                                 </td>
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-success btn-sm waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-danger btn-sm waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>
@@ -117,10 +117,10 @@
                                 
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-success btn-sm waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-danger btn-sm waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>
@@ -136,10 +136,10 @@
                                 </td>
                                 <td>
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-success btn-sm waves-effect waves-light">
                                         Edit     
                                     </button>
-                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                    <button type="button" class="btn btn-outline-danger btn-sm  waves-effect waves-light">
                                         Delete
                                     </button>
                                 </td>

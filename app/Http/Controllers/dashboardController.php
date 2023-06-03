@@ -13,8 +13,10 @@ class dashboardController extends Controller
      */
     public function index()
     {
+
         return view('layouts.dashboard', [
-            "title" => "Dashboard page"
+            "title" => "Dashboard page",
+            // "items" => 
         ]);
     }
 
