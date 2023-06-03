@@ -25,6 +25,34 @@
                             </tr>
                         </thead>
                         <tbody>
+                            @foreach ($items as $item)
+
+                            <tr>
+                                
+                                <td><a href="javascript: void(0);" class="text-body fw-bold">#SK2540</a> </td>
+                                <td>Shofa</td>
+                                <td>
+                                    karyawan
+                                </td>
+                                <td>
+                                    0852-1111-9246
+                                </td>
+                                <td>
+                                    Tegal
+                                </td>
+                                
+                                <td>
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn btn-success btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                        Edit     
+                                    </button>
+                                    <button type="button" class="btn btn-danger btn-sm btn-rounded waves-effect waves-light" data-bs-toggle="modal" data-bs-target=".transaction-detailModal">
+                                        Delete
+                                    </button>
+                                </td>
+                            </tr>
+                                
+                            @endforeach
                             <tr>
                                 
                                 <td><a href="javascript: void(0);" class="text-body fw-bold">#SK2540</a> </td>
